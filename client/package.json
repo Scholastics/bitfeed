@@ -17,7 +17,7 @@
     "base58-js": "^1.0.0",
     "bech32-buffer": "^0.2.0",
     "buffer": "^6.0.3",
-    "d3-color": "^3.0.1",
+    "d3-color": "^3.1.0",
     "d3-interpolate": "^3.0.1",
     "dotenv": "^10.0.0",
     "hash.js": "^1.1.7",
@@ -33,7 +33,7 @@
     "rollup-plugin-terser": "^7.0.2",
     "sass": "^1.49.0",
     "sirv-cli": "^1.0.14",
-    "svelte": "^3.44.3",
+    "svelte": "^3.49.0",
     "svelte-preprocess": "^4.10.1",
     "svelte-select": "^4.4.7"
   },
